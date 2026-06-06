@@ -1,0 +1,6 @@
+telethon==1.36.*
+dotenv
+colorama
+asyncio
+requests
+pillow
